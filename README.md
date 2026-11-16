@@ -6,7 +6,6 @@
 # # Tentang Repository
 Repository adalah ruang penyimpanan terpusat untuk menyimpan, mengelola, dan melacak seluruh file serta riwayat perubahan sebuah proyek pemrograman.
 # # Perintah Git
-Perintah-Perintah Dasar Git
 • Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
 • Git status : untuk mengetahui status dari repository lokal
 • Git add : menambahkan file baru pada repository yang dipilih
