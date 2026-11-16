@@ -1,2 +1,3 @@
 # Nadia-Indah-Santika-WebDesain-Projek
-Kumpulan Hasil Karya
+Tentang Repository
+Repository adalah ruang penyimpanan terpusat untuk menyimpan, mengelola, dan melacak seluruh file serta riwayat perubahan sebuah proyek pemrograman.
