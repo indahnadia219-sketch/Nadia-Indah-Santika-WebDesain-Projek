@@ -6,17 +6,15 @@
 # # Tentang Repository
 Repository adalah ruang penyimpanan terpusat untuk menyimpan, mengelola, dan melacak seluruh file serta riwayat perubahan sebuah proyek pemrograman.
 # # Perintah Git
-• Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
-• Git status : untuk mengetahui status dari repository lokal
-• Git add : menambahkan file baru pada repository yang dipilih
-• Git commit : untuk menyimpan perubahan yang dilakukan, tetapi tidak ada
-perubahan pada remote repository.
-• Git push : untuk mengirimkan perubahan file setelah di commit ke remote
-repository.
-• Git branch : melihat seluruh branch yang ada pada repository
-• Git checkout : menukar branch yang aktif dengan branchyang dipilih
-• Git merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
-• Git clone : membuat Salinan repository local
+1. Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
+2. Git status : untuk mengetahui status dari repository lokal
+3. Git add : menambahkan file baru pada repository yang dipilih
+4. Git commit : untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository.
+5. Git push : untuk mengirimkan perubahan file setelah di commit ke remoterepository.
+6. Git branch : melihat seluruh branch yang ada pada repository
+7. Git checkout : menukar branch yang aktif dengan branchyang dipilih
+8. Git merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
+9. Git clone : membuat Salinan repository local
 
 # # Penulis
 Nama : Nadia Indah Santika
