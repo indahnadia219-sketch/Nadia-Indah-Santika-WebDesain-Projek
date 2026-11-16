@@ -18,8 +18,11 @@ Repository adalah ruang penyimpanan terpusat untuk menyimpan, mengelola, dan mel
 
 # # Penulis
 Nama : Nadia Indah Santika
+
 NIM/Kelas : K3525084/C
+
 Angkatan : 2025
+
 Program Studi : Pendidikan Teknik Informatika dan Komputer
 
 
