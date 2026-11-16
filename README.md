@@ -1,11 +1,11 @@
 # Nadia-Indah-Santika-WebDesain-Projek
-# # Tujuan Praktikum
+# Tujuan Praktikum
 1. Mahasiswa mengenal teknik versioning dengan Git
 2. Mahasiswa mampu berkolaborasi dalam tim dengan Git
 3. Mahasiswa mampu mengembangkan aplikasi perangkat lunak dengan Git
-# # Tentang Repository
+# Tentang Repository
 Repository adalah ruang penyimpanan terpusat untuk menyimpan, mengelola, dan melacak seluruh file serta riwayat perubahan sebuah proyek pemrograman.
-# # Perintah Git
+# Perintah Git
 1. Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
 2. Git status : untuk mengetahui status dari repository lokal
 3. Git add : menambahkan file baru pada repository yang dipilih
@@ -15,8 +15,7 @@ Repository adalah ruang penyimpanan terpusat untuk menyimpan, mengelola, dan mel
 7. Git checkout : menukar branch yang aktif dengan branchyang dipilih
 8. Git merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
 9. Git clone : membuat Salinan repository local
-
-# # Penulis
+# Penulis
 Nama : Nadia Indah Santika
 
 NIM/Kelas : K3525084/C
