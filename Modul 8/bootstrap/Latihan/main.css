@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box-testimoni {
+    background-color: #ffc0cb;
+    color: #333333;
+    text-align: justify;
+}
+
+.box-kritik {
+    background-color: #d8bfd8;
+    color: #333333;
+    text-align: justify;
+}
+
+.box-saran {
+    background-color: #fff8dc;
+    color: #333333;
+    text-align: justify;
+}
+
+.card {
+    border-radius: 4px;
+    box-shadow: none;
+}
+
